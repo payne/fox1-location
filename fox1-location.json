@@ -1,5 +1,5 @@
 {
-  "storage": true,
+  "storage": false,
   "latitude": 40.7128,
   "longitude": -74.0060,
   "timeLocationUpdated": "2026-06-06T14:00:18.914Z"
